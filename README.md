@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👋 Hey, I'm Mukilan
 
-<!--
-**mukilan2101/mukilan2101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Engineer** focused on production **MLOps** and **Healthcare AI**, with hands-on experience shipping clinical-grade NLP, speech, and signal processing systems to production.
 
-Here are some ideas to get you started:
+- 🎯 Previously: Intern AI Engineer at the Centre for Advanced Computing Research, building real-time speech and NLP pipelines.
+- 🩺 Interests: Healthcare AI, physiological signal modeling, and robust ML systems.
+- 🌍 Based in Southampton, UK · Open to relocation.
+- 🔗 Reach me on [LinkedIn](https://www.linkedin.com/in/mukilan-rajapandian/) or via email: mukilanrajapandian21@gmail.com.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Core skills
+
+- **AI & ML**: TensorFlow, PyTorch, Scikit-learn, Hugging Face Transformers, XGBoost, LightGBM
+- **Healthcare & Signals**: Time series analysis, speech processing, signal processing (ECG / PPG style pipelines)
+- **MLOps & Prod**: AWS SageMaker, Docker, Kubernetes, CI/CD (Jenkins, GitHub Actions), MLflow, monitoring
+- **Languages & Tools**: Python, C/C++, SQL, MATLAB, Linux, REST APIs, pytest, Git
+
+---
+
+## 🚀 Featured projects
+
+### 🩺 AI-Enhanced Blood Pressure Monitoring System (MEng Thesis, 2024–2025)
+Clinical-grade system for CVD risk prediction using signal processing and ML.
+
+- Improved prediction performance from **65% to 78.66%** with robust preprocessing and modeling.
+- Built end‑to‑end ML pipeline on MIMIC III with Random Forest regression, achieving **R² = 0.824 (systolic)**.
+- Implemented Butterworth bandpass filtering, zero-phase distortion, and adaptive noise reduction for real-world robustness.
+- Designed automated retraining and model versioning for production-ready deployment.
+
+**Tech**: Python, Scikit-learn, signal processing, MIMIC III, MLflow, Docker, AWS
+
+---
+
+### 🗣️ Real-Time Speech Analysis & Speaker Identification
+Built during Intern AI Engineer role at the Centre for Advanced Computing Research.
+
+- Production‑grade audio processing pipeline handling **10,000+ audio samples/day** with **40% latency reduction**.
+- Automated text classification with fine‑tuned BERT models at **92% precision**.
+- Speaker identification system reaching **95% accuracy** using Librosa and Pyannote.audio, deployed with AWS SageMaker.
+- Deployed with CI/CD, containerisation, and monitoring for reliable production use.
+
+**Tech**: Python, Librosa, Pyannote.audio, BERT, AWS SageMaker, Docker, Jenkins
+
+---
+
+## 🎓 Education
+
+- **MEng Electronic Engineering with Artificial Intelligence** – University of Southampton  
+  Grade: 2:1 (Upper Second-Class Honours)
+
+---
+
+## 🤝 What I'm looking for
+
+- AI Engineer / MLOps roles (healthcare, speech, or signal processing).
+- Opportunities to work on robust, production‑grade ML systems.
+
+If my work aligns with what you're building, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/mukilan-rajapandian/).
