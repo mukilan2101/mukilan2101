@@ -31,19 +31,6 @@ Clinical-grade system for CVD risk prediction using signal processing and ML.
 **Tech**: Python, Scikit-learn, signal processing, MIMIC III, MLflow, Docker, AWS
 
 ---
-
-### 🗣️ Real-Time Speech Analysis & Speaker Identification
-Built during Intern AI Engineer role at the Centre for Advanced Computing Research.
-
-- Production‑grade audio processing pipeline handling **10,000+ audio samples/day** with **40% latency reduction**.
-- Automated text classification with fine‑tuned BERT models at **92% precision**.
-- Speaker identification system reaching **95% accuracy** using Librosa and Pyannote.audio, deployed with AWS SageMaker.
-- Deployed with CI/CD, containerisation, and monitoring for reliable production use.
-
-**Tech**: Python, Librosa, Pyannote.audio, BERT, AWS SageMaker, Docker, Jenkins
-
----
-
 ## 🎓 Education
 
 - **MEng Electronic Engineering with Artificial Intelligence** – University of Southampton  
