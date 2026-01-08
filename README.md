@@ -5,7 +5,7 @@
 - 🎯 Previously: Intern AI Engineer at the Centre for Advanced Computing Research, building real-time speech and NLP pipelines.
 - 🩺 Interests: Healthcare AI, physiological signal modeling, and robust ML systems.
 - 🌍 Based in Southampton, UK · Open to relocation.
-- 🔗 Reach me on [LinkedIn](https://www.linkedin.com/in/mukilan-rajapandian/) or via email: mukilanrajapandian21@gmail.com.
+- 🔗 Reach me on [LinkedIn](https://www.linkedin.com/in/mukilanrajapandian) or via email: mukilanrajapandian21@gmail.com.
 
 ---
 
